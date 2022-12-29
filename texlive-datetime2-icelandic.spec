@@ -1,5 +1,5 @@
 Name:		texlive-datetime2-icelandic
-Version:	47501
+Version:	65213
 Release:	1
 Summary:	Icelandic language module for the datetime2 package
 Group:		Publishing
